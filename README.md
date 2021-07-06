@@ -20,3 +20,6 @@ Pengembang dan Pembuat : Saya (Muhammad Erlangga Sapta Ajie)
 Instalasi : 
 - Taruh file web pada folder root webserver (contoh nya htdocs)
 - Import database berekstensi .sql
+
+Akun : 
+- Untuk proses login gunakan akun (username : earlangga // password : 123321123)
